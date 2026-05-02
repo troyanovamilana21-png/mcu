@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libbme280_driver.a "CMakeFiles/bme280_driver.dir/src/bme280-driver.c.o"
+/opt/homebrew/bin/arm-none-eabi-ranlib libbme280_driver.a

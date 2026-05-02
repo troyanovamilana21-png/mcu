@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libprotocol.a "CMakeFiles/protocol.dir/src/protocol-task.c.o"
+/opt/homebrew/bin/arm-none-eabi-ranlib libprotocol.a

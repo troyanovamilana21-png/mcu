@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libili9341.a "CMakeFiles/ili9341.dir/src/ili9341-driver.c.o" "CMakeFiles/ili9341.dir/src/ili9341-display.c.o" "CMakeFiles/ili9341.dir/src/ili9341-font.c.o" "CMakeFiles/ili9341.dir/src/font-jetbrains.c.o"
+/opt/homebrew/bin/arm-none-eabi-ranlib libili9341.a
